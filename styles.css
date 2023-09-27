@@ -22,7 +22,7 @@ a {
 }
 .header-logo {
   color: var(--IRIS, #4d5ae5);
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -76,7 +76,7 @@ a {
 .hero-title {
   color: var(--WHITE, #fff);
   text-align: center;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -140,11 +140,11 @@ a {
 .team-list {
 }
 .team-members {
+  background-color: #ffffff;
 }
 .team-photo {
 }
 .team-name {
-  background-color: #ffffff;
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
   font-size: 20px;
